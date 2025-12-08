@@ -15,6 +15,8 @@ Hi! My name is Elsa Danielsson and I'm a PhD student at Chalmers University of T
 
 Together with [Janine Splettstößer](https://sites.google.com/site/splettchalmers/research-group?authuser=0) and Henning Kirchberg, I published a paper on designing nanoelectronic devices for energy conversion. We present a general theoretical method for finding the best transmission properties given a certain task, like maximizing an output current or an efficiency. The method is valid for any type of current–like electric, energy, and even entropy–and yields a remarkably simple result: the optimal transmission probability is a series of boxcars in the energy spectrum **regardless of the type of current or electron distribution**. With the method, we also demonstrate that nonthermal resources can give a much higher performance than thermal counterparts. 
 
+**Highlighted as Editors' Suggestion**
+
 **Read more here:**
 [Optimizing energy conversion with nonthermal resources in steady-state quantum devices](https://link.aps.org/doi/10.1103/dtvp-pwxk)
 
