@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Elsa Danielsson</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Elsa Danielsson</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Elsa Danielsson&#039;s research webpage</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[  About meHi! My name is Elsa Danielsson and I’m a PhD student at Chalmers University of Technology. ]]></description>
+    <pubDate>Sat, 14 Mar 2026 15:03:32 GMT</pubDate>
+  </item><item>
+    <title>Publications</title>
+    <link>https://quartz.jzhao.xyz/publications</link>
+    <guid>https://quartz.jzhao.xyz/publications</guid>
+    <description><![CDATA[  Caption Optimizing energy conversion with nonthermal resources in steady-state quantum devices Elsa Danielsson, Henning Kirchberg, Janine Splettstößer Phys. ]]></description>
+    <pubDate>Fri, 05 Dec 2025 10:15:18 GMT</pubDate>
+  </item><item>
+    <title>Contributions</title>
+    <link>https://quartz.jzhao.xyz/resources</link>
+    <guid>https://quartz.jzhao.xyz/resources</guid>
+    <description><![CDATA[ Posters Grid Presentations Caption Caption Photo credit: Qurratu’aini Binte Abdul Rashid Contributed talk at the QTD 2025 conference in Singapore. ]]></description>
+    <pubDate>Fri, 05 Dec 2025 09:52:12 GMT</pubDate>
+  </item><item>
+    <title>Contact</title>
+    <link>https://quartz.jzhao.xyz/contact</link>
+    <guid>https://quartz.jzhao.xyz/contact</guid>
+    <description><![CDATA[  elsad@chalmers.sehttps://orcid.org/0009-0004-3181-6966Department of Microtechnology and Nanoscience Applied Quantum Physics Chalmers University of Technology Room C523f, MC2, Kemivägen 9 SE-412 96 Gothenburg Sweden. ]]></description>
+    <pubDate>Fri, 05 Dec 2025 09:52:12 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

@@ -1,0 +1,22 @@
+.callout[data-callout="freedef"] {
+    --callout-color: 31, 244, 255;
+    --callout-icon: lucide-feather;
+}
+
+.callout[data-callout="highlight"] {
+    --callout-color: 199, 118, 255;
+    --callout-icon: lucide-highlighter;
+}
+.callout[data-callout="idea"] {
+    --callout-color: 241, 250, 140;
+    --callout-icon: lucide-lightbulb;
+}
+.callout[data-callout="answer"] {
+    --callout-color: 240,120,160;
+    --callout-icon: lucide-circle-check-big;
+}
+
+.callout[data-callout="calc"] {
+    --callout-color: 119, 212, 233;
+    --callout-icon: lucide-calculator;
+}
