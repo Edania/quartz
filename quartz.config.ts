@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       projectId: "uh6fk1xqjb"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "edania.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
