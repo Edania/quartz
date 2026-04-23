@@ -50,6 +50,19 @@ export default (() => {
             )}
           </>
         )}
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": cfg.pageTitle,
+              "url": `https://${cfg.baseUrl}`,
+            }),
+          }}
+        />
+
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
